@@ -2,6 +2,11 @@
 
 ###
 
+¡Hola! Soy un apasionado programador y creador de software de código abierto. Mi objetivo es contribuir al mundo de la tecnología mediante la creación de programas innovadores y útiles que estén disponibles para todos de forma gratuita.Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+
+Además de desarrollar software, también me encanta compartir mi conocimiento con otros. Publico guías y tutoriales sobre sistemas pequeños y proyectos de programación para ayudar a los nuevos programadores a dar sus primeros pasos en el mundo del desarrollo de software.
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=estadistica&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
