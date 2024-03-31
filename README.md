@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Anthony y soy desarrollador en Python.</h2>
+![Header](./github-header-image.png)
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Programo con :</p>
+<p align="left">Tecnologias  :</p>
 
 ###
 
